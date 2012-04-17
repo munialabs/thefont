@@ -1,0 +1,9 @@
+CMakeFiles/*
+tmp/
+bin/
+*~
+.DS_Store*
+Icon?
+Thumbs.db
+*thumbs.db
+
